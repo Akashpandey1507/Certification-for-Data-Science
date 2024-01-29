@@ -6,3 +6,7 @@
 
 ![image](https://github.com/Akashpandey1507/Certification-for-Data-Science/assets/124170332/bc0b1a6e-3b01-4409-b590-8bd0a04fbbcc)
 
+# certificate - SQL
+
+![image](https://github.com/Akashpandey1507/Certification-for-Data-Science/assets/124170332/7dfcad1e-3696-40b9-8c7c-c4ac555d7e62)
+
